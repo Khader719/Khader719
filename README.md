@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khader Basha M
-- 👀 I’m interested in Data Analysis, Business Analysis, Power BI, SQL, Python, Excel
+- 👀 I’m interested in learning Data Analysis, Business Analysis, Power BI, SQL, Python, Excel
 - 🌱 I’m currently learning - Full Stack Data Analysis
 - 📫 How to reach me - khaderbasha719@gmail.com
 
