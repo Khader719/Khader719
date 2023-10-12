@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Khader Basha M</h1>
-<h3 align="center"> Data Analyst enthusiast</h3>
+<h3 align="center"> Data Science enthusiast</h3>
 
 
 
